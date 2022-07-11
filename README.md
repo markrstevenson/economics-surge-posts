@@ -11,4 +11,4 @@ Each blogpost has it's own folder, using the convention *blog-n-name*. Within ea
 
 ## Contents
 
-1. Blog 1: Build New Economies
+1. **Build New Economies**
