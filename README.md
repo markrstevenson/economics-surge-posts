@@ -7,3 +7,8 @@ Each blogpost has it's own folder, using the convention *blog-n-name*. Within ea
 * data
 * notebooks
 * images
+* output
+
+## Contents
+
+1. Blog 1: Build New Economies
