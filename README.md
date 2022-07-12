@@ -5,9 +5,10 @@ This repo contains the code for [Economics Surge Blogposts](https://economicssur
 Each blogpost has it's own folder, using the convention *blog-n-name*. Within each blog folder, you'll find:
 
 * data
-* notebooks
 * images
+* notebooks
 * output
+* text
 
 ## Contents
 
