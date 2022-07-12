@@ -11,4 +11,5 @@ Each blogpost has it's own folder, using the convention *blog-n-name*. Within ea
 
 ## Contents
 
-1. **Build New Economies** (July 2022)
+1. **Build New Economies**: *We need new companies, new infrastructure, new markets, and new economies. We need a surge of economic growth.* (July 2022)
+
