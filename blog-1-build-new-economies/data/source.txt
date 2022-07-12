@@ -1,1 +1,1 @@
-OECD: https://data.oecd.org/gdp/quarterly-gdp.html
+OECD: https://data.oecd.org/gdp/quarterly-gdp.htm
