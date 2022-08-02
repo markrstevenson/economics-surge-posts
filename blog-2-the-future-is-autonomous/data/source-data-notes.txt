@@ -1,0 +1,13 @@
+
+Intermediary Source: https://injuryfacts.nsc.org/home-and-community/safety-topics/airplane-crashes/
+
+Original Source: National Transportation Safety Board: 2020 preliminary, 1999-2020 revised; exposure data for rates from the Federal Aviation Administration (FAA). https://www.ntsb.gov/investigations/data/Pages/aviation_stats.aspx 
+
+Notes:
+Airlines (scheduled service) – Scheduled US air carriers operating under 14 CFR 121. Includes aircraft with 10 or more seats used in scheduled passenger service
+Airlines (nonscheduled service) – nonscheduled US air carriers operating under 14 CFR 121
+Commuter airlines – US commuter air carriers operating under 14 CFR 135.
+On-demand air taxis - US on-demand air carriers operating under 14 CFR 135. On-Demand Part 135 operations encompass charters, air taxis, air tours, or medical services (when a patient is on board)
+Turn on screen reader support
+
+
